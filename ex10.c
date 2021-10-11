@@ -14,6 +14,7 @@ int main(int argc, char *argv[])
 
 		switch (letter) {
 			case 'a':
+				//printf("a\n");
 			case 'A':
 				printf("%d: 'A'\n",i);
 				break;
